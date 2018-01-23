@@ -1305,6 +1305,7 @@ Where to discover new Python libraries.
 
 * [Sololearn - Python](https://www.sololearn.com/Play/Python)
 * [DataCamp - Python for DataScience](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
+* [CodinGame - Python inside](https://www.codingame.com)
 
 ## Job seeking
 
