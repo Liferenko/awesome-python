@@ -96,6 +96,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Twitter](#twitter)
     - [Websites](#websites)
     - [Weekly](#weekly)
+    - [Learning](#learning)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -1299,6 +1300,21 @@ Where to discover new Python libraries.
 * [Pycoder's Weekly](http://pycoders.com/)
 * [Python Weekly](http://www.pythonweekly.com/)
 * [Python Bytes](https://pythonbytes.fm)
+
+## Learning
+
+* [Sololearn - Python](https://www.sololearn.com/Play/Python)
+* [DataCamp - Python for DataScience](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
+
+## Job seeking
+
+Remote and Worldwide
+* [GUN.io](https://www.gun.io/)
+* [Stackoverflow - Python](https://stackoverflow.com/jobs?sort=i&q=python)
+
+Ru+Europe
+* [Moikrug.ru](https://moikrug.ru/)
+* [Djinni.co](https://djinni.co/)
 
 # Other Awesome Lists
 
