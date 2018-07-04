@@ -1310,11 +1310,12 @@ Where to discover new Python libraries.
 ## Job seeking
 
 Remote and Worldwide
+* [Github.Jobs](https://jobs.github.com/positions?description=Python)
+* [Berlin Startup Jobs](http://berlinstartupjobs.com/?s=python)
 * [GUN.io](https://www.gun.io/)
 * [Stackoverflow - Python](https://stackoverflow.com/jobs?sort=i&q=python)
 * [Kaggle / Jobs for data scientists](https://www.kaggle.com/jobs)
 * [AngelList / Startups jobs](https://angel.co/jobs)
-* [Github.Jobs](https://jobs.github.com/positions?description=Python)
 
 Ru+Europe
 * [Moikrug.ru](https://moikrug.ru/)
